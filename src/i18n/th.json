@@ -1,0 +1,73 @@
+{
+  "message": {
+    "menu": "เมนู",
+    "Remaining": "ยังไม่เสร็จ",
+    "Completed": "เสร็จ",
+    "menus": [
+      { "heading": "ไกด์ทั่วไป" },
+      { "icon": "mdi-lightbulb-outline", "text": "1 วันต้องทำอะไรบ้าง" },
+      { "divider": true },
+      { "heading": "ไกด์อาชีพ" },
+      { "icon": "mdi-sword", "text": "Blade Master" },
+      { "icon": "mdi-pistol", "text": "Gunslinger" },
+      { "icon": "mdi-knife", "text": "Assassin" },
+      { "icon": "mdi-hospital-box-outline", "text": "Soul Dancer" },
+      { "heading": "ไกด์ดันเจี้ยน" }
+    ],
+    "dailies": [
+      {
+        "done": false,
+        "text": "หาตี้ลง Devil Awake 2รอบ + Dragon apostle 5 รอบ (ถ้าขยันลง 15 รอบก็ได้เอาแต้มช่วยเพื่อน มีโอกาสดรอปของอยู่แต่โอกาสน้อยมาก)"
+      },
+      {
+        "done": false,
+        "text": "ลง Dragon hunting"
+      },
+      {
+        "done": false,
+        "text": "ลง Day of Liberty (PVP) เข้าไปเล่นรอบเดียวก็พอชนะแพ้ก็ได้ เอา exp"
+      },
+      {
+        "done": false,
+        "text": "เสาร์-อาทิตย์ ถ้าชนะ จะได้โบนัส เก็บโบนนัสได้ 3 ครั้ง (ชนะ 3 รอบ)"
+      },
+      {
+        "done": false,
+        "text": "ตอบคำถาม Salon of Wisdom / The brain"
+      },
+      {
+        "done": false,
+        "text": "12.00-14.00 กับ 19.00-22.00 ลง irritated Blood"
+      },
+      {
+        "done": false,
+        "text": "12.30 กิจกรรมคลับ"
+      },
+      {
+        "done": false,
+        "text": "20.00 มีตอบคำถาม 10 ข้อ https://docs.google.com/document/d/1B_4W6kiWGeHld2mhEObTDbh5R2Hpu9EjEy7kZwI6wBU/edit"
+      },
+      {
+        "done": false,
+        "text": " 21.00 กิจกรรมคลับ"
+      }
+    ],
+    "tips": [
+      {
+        "text": "เปิดหน้า event ทำกิจกรรมที่มีรูปดาวสีทองก่อนถ้าไม่คิดว่าจะทำกิจกรรมทั้งหมดทันในหนึ่งวัน"
+      },
+      {
+        "text": "พยายามทำ Solo exp ให้ครบในแต่ละวัน"
+      },
+      {
+        "text": "เวลาที่อยู่ในไกด์คือเวลา server ไม่ใช่เวลาของเกม "
+      },
+      {
+        "text": "เฉลย Salon of Wisdom / The brain https://docs.google.com/document/d/1VpMbc9E3y1K2_Gy2WWfRsKvDzFN39Djoc9NYOux9lL8/edit "
+      },
+      {
+        "text": "เฉลย Gossip Society/ King of Gossip https://docs.google.com/document/d/1B_4W6kiWGeHld2mhEObTDbh5R2Hpu9EjEy7kZwI6wBU/edit "
+      }
+    ]
+  }
+}

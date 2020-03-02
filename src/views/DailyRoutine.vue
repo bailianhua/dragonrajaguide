@@ -1,0 +1,31 @@
+<template>
+  <div class="daily-routine">
+    <v-card>
+      <v-list>
+        <v-list-item
+          v-for="(tip, index) in $t('message.tips')"
+          :key="index"
+          dense
+        >
+          <v-list-item-content>
+            <v-list-item-title
+              >{{ index + 1 }} {{ tip.text }}</v-list-item-title
+            >
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+    </v-card>
+    <todo-list :tasks="$t('message.dailies')"></todo-list>
+  </div>
+</template>
+
+<script>
+import TodoList from "@/components/TodoList.vue";
+export default {
+  name: "Home",
+  components: { TodoList },
+  data() {
+    return {};
+  }
+};
+</script>

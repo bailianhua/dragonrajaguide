@@ -1,0 +1,73 @@
+{
+  "message": {
+    "menu": "menu",
+    "Remaining": "Remaining",
+    "Completed": "Completed",
+    "menus": [
+      { "heading": "General Guide" },
+      { "icon": "mdi-lightbulb-outline", "text": "What to do in each day" },
+      { "divider": true },
+      { "heading": "Class Guide" },
+      { "icon": "mdi-sword", "text": "Blade Master" },
+      { "icon": "mdi-pistol", "text": "Gunslinger" },
+      { "icon": "mdi-knife", "text": "Assassin" },
+      { "icon": "mdi-hospital-box-outline", "text": "Soul Dancer" },
+      { "heading": "Dungeon Guide" }
+    ],
+    "tips": [
+      {
+        "text": "If you don't have time to do all the event,open event menu and do the event that have a gold star in the event icon first"
+      },
+      {
+        "text": "Try to fill the Solo exp in each day"
+      },
+      {
+        "text": "Time mention in guide is server time not game time"
+      },
+      {
+        "text": "cheat sheet Salon of Wisdom / The brain https://docs.google.com/document/d/1VpMbc9E3y1K2_Gy2WWfRsKvDzFN39Djoc9NYOux9lL8/edit "
+      },
+      {
+        "text": "cheat sheet  Gossip Society/ King of Gossip https://docs.google.com/document/d/1B_4W6kiWGeHld2mhEObTDbh5R2Hpu9EjEy7kZwI6wBU/edit "
+      }
+    ],
+    "dailies": [
+      {
+        "done": false,
+        "text": "Find a 5-man party running 2 Devil Awake + 5 Dragon apostile. (You can run dragon apostle 15 times to farm assist point and it's small chance to get bonus drop even you already done it 5 times)"
+      },
+      {
+        "done": false,
+        "text": "Running Dragon hunting"
+      },
+      {
+        "done": false,
+        "text": "Participate in Day of Liberty(Cross-server PVP) You don't need to win to finish the daily"
+      },
+      {
+        "done": false,
+        "text": "In Sat. and Sun. You'll have another quest to win 2 round of Day of Liberty"
+      },
+      {
+        "done": false,
+        "text": "Salon of Wisdom / The brain "
+      },
+      {
+        "done": false,
+        "text": "12.00-14.00 and 19.00-22.00 running Irritated Blood"
+      },
+      {
+        "done": false,
+        "text": "12.30 Club activities varies in each day"
+      },
+      {
+        "done": false,
+        "text": "20.00 Quiz 10 question"
+      },
+      {
+        "done": false,
+        "text": " 21.00 Club activities varies in each day"
+      }
+    ]
+  }
+}
