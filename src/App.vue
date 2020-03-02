@@ -11,7 +11,7 @@
       <v-btn color="white" class="mx-2"
         ><v-img
           @click="englishLanguage()"
-          src="/img/icons/uk.svg"
+          src="https://image.flaticon.com/icons/svg/555/555417.svg"
           aspect-ratio="1"
           class="grey lighten-2"
           contain
@@ -20,7 +20,7 @@
       <v-btn color="white">
         <v-img
           @click="thaiLanguage()"
-          src="/img/icons/th.svg"
+          src="https://image.flaticon.com/icons/svg/555/555495.svg"
           aspect-ratio="1"
           class="grey lighten-2"
           contain
