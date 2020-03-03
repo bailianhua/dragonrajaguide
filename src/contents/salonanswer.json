@@ -1,0 +1,763 @@
+[
+  {
+    "question": "Which is not a feature of the gunslinger class?",
+    "answer": "Has 2 stances"
+  },
+  {
+    "question": "Which elemental attack is more important to the Gunslinger class?",
+    "answer": "Wind"
+  },
+  {
+    "question": "Which elemental attack is more important to the Executioner class?",
+    "answer": "Earth"
+  },
+  {
+    "question": "Blade Master’s skill ‘’Void’’ is not effective in?",
+    "answer": "Dragon Hunt"
+  },
+  {
+    "question": "How useful is MATK to the Blade Master class?",
+    "answer": "Useless"
+  },
+  {
+    "question": "Which is not a feature of the Blade Master class?",
+    "answer": "Can attack from "
+  },
+  {
+    "question": "Which elemental attack is more important to the Blade Master class?",
+    "answer": "Fire"
+  },
+  {
+    "question": "If somebody told you that you’ve won a prize and needed your personal details you should?",
+    "answer": "Not give them"
+  },
+  {
+    "question": "What should you do when self proclaimed staff asked for your account?",
+    "answer": "Refuse"
+  },
+  {
+    "question": "What should you do when receiving harassing messages?",
+    "answer": "Add to blacklist"
+  },
+  {
+    "question": "If you didn't receive items you bought, what should you do?",
+    "answer": "Receive manually"
+  },
+  {
+    "question": "What should you do when you see a cheater?",
+    "answer": "Report the cheat"
+  },
+  {
+    "question": "What should you do when Petrified?",
+    "answer": "Tap QTE button"
+  },
+  { "question": "What should you do when frozen?", "answer": "Tap QTE button" },
+  { "question": "What is vitality used for?", "answer": "Sending world me" },
+  { "question": "Where can you check your Vitality?", "answer": "Profile" },
+  {
+    "question": "What statement about Vitality is correct?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which panel allows you to access your mailbox?",
+    "answer": "Friends"
+  },
+  {
+    "question": "Which panel shows the weather forecast for the next 24 hours?",
+    "answer": "Map"
+  },
+  {
+    "question": "Where can you change your avatar and avatar frame?",
+    "answer": "Profile"
+  },
+  { "question": "Where can you check your PvP points?", "answer": "Profile" },
+  {
+    "question": "Which power does the Disciplinarian in a club have?",
+    "answer": "Ban from posting"
+  },
+  {
+    "question": "Which power does the News Editor in a club have?",
+    "answer": "Write club statu"
+  },
+  {
+    "question": "Which power does the Battle Leader in a club have?",
+    "answer": "Command in Club "
+  },
+  {
+    "question": "Which power does the Recruitment Director in a club have?",
+    "answer": "Create & post re"
+  },
+  {
+    "question": "Which description of the Stable Status is wrong?",
+    "answer": "Team enters Stab"
+  },
+  {
+    "question": "Which description of the Stable Status is correct?",
+    "answer": "Leader gets excl"
+  },
+  {
+    "question": "How do you let an ally assist you in battle?",
+    "answer": "Set as a main ba"
+  },
+  {
+    "question": "When can the Main Battle Partner’s Ultimate Skill be triggered?",
+    "answer": "When attacking"
+  },
+  {
+    "question": "Which statement about appointing a Main Battle Partner is wrong?",
+    "answer": "Can be changed a"
+  },
+  {
+    "question": "How many Allies can you set as Main Battle Partners?",
+    "answer": "1"
+  },
+  {
+    "question": "Which description of EVA’s Assisted Training Center is wrong?",
+    "answer": "Infinite rewards"
+  },
+  {
+    "question": "What rewards can you get at EVA’s Assisted Training Center?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "How do you start training at EVA’s Assisted Training Center?",
+    "answer": "Tap ‘’Training’’"
+  },
+  {
+    "question": "Where can you check the opening hours of each event?",
+    "answer": "Calendar in Even"
+  },
+  {
+    "question": "When can you irrigate the Wishing Tree?",
+    "answer": "Saturday, Sunday"
+  },
+  {
+    "question": "How do you access the Team screen?",
+    "answer": "Tap ''T'' at the"
+  },
+  {
+    "question": "How do you appoint a new leader?",
+    "answer": "Tap ‘T’ at the t"
+  },
+  {
+    "question": "Which statement about the extra rewards that team leaders can get is correct?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What decides the rewards you gain when teaming up with other players in most daily events?",
+    "answer": "Player’s level"
+  },
+  {
+    "question": "What benefit will a pet get when it evolves?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the maximum number of pets you can add to a Pet Squad to help you fight?",
+    "answer": "2"
+  },
+  {
+    "question": "At which level can you activate grade A talent?",
+    "answer": "55"
+  },
+  {
+    "question": "How do you initiate ‘’Hug Me’’ when riding?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What states does ally bond increase?",
+    "answer": "Allies stats"
+  },
+  {
+    "question": "Which statement about reserve hp is correct?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What decides the number of ingredients by gathering and the amount of proficiency you get?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "How do you gain Perfect Memory points?",
+    "answer": "Play the story"
+  },
+  {
+    "question": "Which item can unlock outfit color blocks?",
+    "answer": "Paint card"
+  },
+  { "question": "Dash allows you to?", "answer": "All of the above" },
+  {
+    "question": "What is needed to refit a Motor?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which statement about the stats of Cores is wrong?",
+    "answer": "Changing your cl"
+  },
+  {
+    "question": "What is the minimum prefix quality required to activate prefix sets?",
+    "answer": "Purple"
+  },
+  {
+    "question": "How many high-quality prefixes does a piece of equipment need to have to activate set stats?",
+    "answer": "6"
+  },
+  {
+    "question": "What does not decide the number of ingredients by gathering and the amount of proficiency you get?",
+    "answer": "Cooking level"
+  },
+  {
+    "question": "The double arrows above the Combat Assist button are used to?",
+    "answer": "Switch targets"
+  },
+  {
+    "question": "Which statement about friend points is incorrect?",
+    "answer": "Can only get by "
+  },
+  {
+    "question": "Which career action can get you Diamonds?",
+    "answer": "Cooking & making"
+  },
+  {
+    "question": "What info can you see on the Package screen?",
+    "answer": "CHAR Score"
+  },
+  {
+    "question": "What does the attribute ‘’Cooldown Reduction’’ do?",
+    "answer": "Reduce skill CD"
+  },
+  {
+    "question": "Aside from the default friend group, how many more friend groups can you create?",
+    "answer": "5"
+  },
+  {
+    "question": "Which type of Stress-relief Orders do your teammates need to receive so that you can get Assisting rewards?",
+    "answer": "Defeating monste"
+  },
+  {
+    "question": "How do you receive Zone Gifts placed by your friends?",
+    "answer": "To their Moments"
+  },
+  {
+    "question": "At what level will Portable Warehouse become available to the player?",
+    "answer": "1"
+  },
+  {
+    "question": "Who can you recruit to be Lucky Allies?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "How do you use multiple Ally EXP Potions at a time to level up an Ally?",
+    "answer": "Hold"
+  },
+  {
+    "question": "A main quest’s EXP will start dropping only when your character’s level exceeds the quest’s by?",
+    "answer": "5"
+  },
+  {
+    "question": "What is the maximum number of Assisting Points you can get each day?",
+    "answer": "300"
+  },
+  {
+    "question": "What can’t you do when Silenced?",
+    "answer": "Use Class Skills"
+  },
+  { "question": "What does the Vision do?", "answer": "Reveals objects" },
+  {
+    "question": "The skill 'Dodge' at the bottom right of the screen can't be used to?",
+    "answer": "Deal high damage"
+  },
+  {
+    "question": "What is the maximum number of system mails that you can receive?",
+    "answer": "99"
+  },
+  {
+    "question": "Where do you tap to expand the chat box?",
+    "answer": "Top right corner"
+  },
+  {
+    "question": "Which statement about Stored EXP is wrong?",
+    "answer": "Server level doe"
+  },
+  {
+    "question": "Which action may cause a pet to cast a skill in battle?",
+    "answer": "Deployment"
+  },
+  {
+    "question": "When your inventory is full, how many days can you store extra items in Temporary Package?",
+    "answer": "7"
+  },
+  {
+    "question": "What statement about Leader's Badge is wrong?",
+    "answer": "Available at EVA"
+  },
+  {
+    "question": "What percentage of Allies' Stats can be transferred to the player?",
+    "answer": "12%"
+  },
+  {
+    "question": "What is not shown in other players' profiles?",
+    "answer": "Zodiac sign"
+  },
+  {
+    "question": "What is the effect of the attribute “Multistrike” on Multi Skills?",
+    "answer": "More likely to a"
+  },
+  {
+    "question": "When will a new pet form be unlocked?",
+    "answer": "When a pet evolv"
+  },
+  { "question": "Which is not a pet form?", "answer": "Final form" },
+  {
+    "question": "What is the maximum number of Friendship Points you can get each day?",
+    "answer": "No limit"
+  },
+  {
+    "question": "When your level is higher than the server level, what event will make you have less xp?",
+    "answer": "Dragon-hunting t"
+  },
+  { "question": "How do you acquire Draconics?", "answer": "All of the above" },
+  {
+    "question": "Who should you dispatch to improve your rating in NightWatcher’s Bounty?",
+    "answer": "Allies that meet"
+  },
+  {
+    "question": "How many times in a row can you dodge at full Endurance?",
+    "answer": "3"
+  },
+  {
+    "question": "Which is not the item you can get by disassembling Allies?",
+    "answer": "Secret Command"
+  },
+  {
+    "question": "How many times in a row can you perform Aerial Dash at full Endurance?",
+    "answer": "3"
+  },
+  {
+    "question": "Which statement about Friendship points is correct?",
+    "answer": "Team up with a p"
+  },
+  {
+    "question": "If you can't beat a monster in Tick Tock Anxiety, you should?",
+    "answer": "Tap request for "
+  },
+  {
+    "question": "Which statement about reading is wrong?",
+    "answer": "You can only rea"
+  },
+  {
+    "question": "The chat box at the bottom left of the screen doesn't show all messages. How do you open the Chat screen?",
+    "answer": "Tap chat box"
+  },
+  {
+    "question": "Which item can unlock color blocks for spraying motors?",
+    "answer": "Paint can"
+  },
+  {
+    "question": "Which is the highest level of Talent that can be activated?",
+    "answer": "Grade S"
+  },
+  {
+    "question": "How do you earn rewards more efficiently on EVA's Assisted Training Center?",
+    "answer": "Team up"
+  },
+  {
+    "question": "How do you climb a wall while dashing?",
+    "answer": "Keep pushing the"
+  },
+  {
+    "question": "How do you increase Bond Points?",
+    "answer": "Team up and figh"
+  },
+  {
+    "question": "What should you do if you miss out on an event?",
+    "answer": "Claim the reward"
+  },
+  { "question": "How many sigils can the player study?", "answer": "8" },
+  {
+    "question": "How many pets are there in terms of attributes?",
+    "answer": "2"
+  },
+  {
+    "question": "When a main quest’s EXP starts dropping, what color will be the quest level?",
+    "answer": "Gray"
+  },
+  {
+    "question": "How many times can you claim Flower Tickets each day?",
+    "answer": "5"
+  },
+  {
+    "question": "What is the maximum number of Potential Chips a pet can have?",
+    "answer": "6"
+  },
+  {
+    "question": "What reward(s) will you possibly get when your Store levels up?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "How much Dragon Hunt AP does the College give each day?",
+    "answer": "40"
+  },
+  {
+    "question": "Which is a right description of summoned pets?",
+    "answer": "You can tap to i"
+  },
+  {
+    "question": "You can enter an EVA's Assisted Training Center that is __ level tier(s) higher than you?",
+    "answer": "1"
+  },
+  {
+    "question": "Which statement about Endurance is wrong?",
+    "answer": "Jumping consumes"
+  },
+  {
+    "question": "How do you improve a pet's rating?",
+    "answer": "All of the above"
+  },
+  { "question": "Which is not an effect of Blood Rage", "answer": "More EXP" },
+  {
+    "question": "Which is not a potential consequence of blood rage",
+    "answer": "Become pure dragon"
+  },
+  {
+    "question": "Johann Chu forcibly enhances his talent through",
+    "answer": "Blood rage"
+  },
+  { "question": "What is King Pele’s uniform number", "answer": "10" },
+  { "question": "Who is the founder of Cassell College", "answer": "Anjou" },
+  {
+    "question": "Which plant is dubbed as the ''plant panda''",
+    "answer": "Cathaya"
+  },
+  {
+    "question": "Black Swan Bay is destroyed by",
+    "answer": "Herzog, Bondarev"
+  },
+  {
+    "question": "The Hydras’ dragon bloodline is passed down from",
+    "answer": "The Light King"
+  },
+  {
+    "question": "When he gets into college, Finger Von Frings is",
+    "answer": "Grade A"
+  },
+  { "question": "Where is Black Swan Bay", "answer": "Siberia" },
+  {
+    "question": "Luminous 1/4 of his life to Ming Z Lu for the first time to",
+    "answer": "Save NoNo"
+  },
+  { "question": "What is Luminos’s power word", "answer": "Immortal" },
+  {
+    "question": "Which power word can create blazing flames that can melt metal",
+    "answer": "Royal Fire"
+  },
+  {
+    "question": "Which power word can cut through all unauthorized living things in an area",
+    "answer": "Judgment"
+  },
+  {
+    "question": "Which Power Word allows the user to unleash windblades to cut down enemies",
+    "answer": "Blood Scythe"
+  },
+  {
+    "question": "Which Power Word can create blazing flames that can melt metal",
+    "answer": "Rhein"
+  },
+  {
+    "question": "Which cheating code does Luminous use to bid for Seven Deadly Sins in the auction",
+    "answer": "Show me the money"
+  },
+  {
+    "question": "Who is dubbed as the ancestor of dragons and created the Four Lands",
+    "answer": "Nidhogg"
+  },
+  {
+    "question": "Which is one of Mai Sakatoku’s swords",
+    "answer": "Snake-slayer"
+  },
+  {
+    "question": "Dr. Herzog’s research in Black Swan Bay centers on",
+    "answer": "Dragons, Hybrids"
+  },
+  {
+    "question": "Which is not a professor at Cassell College",
+    "answer": "Koshi Uesugi"
+  },
+  {
+    "question": "Which waterway connects North America and Asia",
+    "answer": "Bering Strait"
+  },
+  {
+    "question": "Which waterway connects the pacific ocean and indian ocean",
+    "answer": "Strait of Malacca"
+  },
+  {
+    "question": "The city with the most bridges in the world is",
+    "answer": "Venice"
+  },
+  { "question": "The world’s largest plain is", "answer": "Amazon plain" },
+  {
+    "question": "The largest desert in the world is",
+    "answer": "Sahara Desert"
+  },
+  { "question": "Which is the longest river in Europe", "answer": "Volga" },
+  {
+    "question": "Which is the largest peninsula in Europe",
+    "answer": "Northern Europe"
+  },
+  { "question": "The highest mountain in the Alps is", "answer": "Mont Blanc" },
+  {
+    "question": "Which is the largest island in Europe",
+    "answer": "Great Britain"
+  },
+  {
+    "question": "The world’s largest landlocked state is",
+    "answer": "Kazakhstan"
+  },
+  { "question": "The Earth’s surface area is", "answer": "510 million km2" },
+  { "question": "Which continent is least populated", "answer": "Antarctica" },
+  { "question": "Where is the Pyramid of the Moon", "answer": "Mexico" },
+  { "question": "The world famous Taj Mahal is located in", "answer": "India" },
+  {
+    "question": "The southernmost country in the world is",
+    "answer": "Argentina"
+  },
+  { "question": "Where is the Statue of Liberty", "answer": "New York Harbor" },
+  { "question": "Where is the Louvre museum", "answer": "Paris" },
+  {
+    "question": "Which continent has the most wind resources",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "The world's most low-lying country is",
+    "answer": "Netherlands"
+  },
+  {
+    "question": "Which of the following famous palaces is located in the United Kingdom",
+    "answer": "Buckingham Palace"
+  },
+  { "question": "The world’s largest coffee producer is", "answer": "Brazil" },
+  { "question": "The world's smallest country is", "answer": "Vatican" },
+  {
+    "question": "What year was the Nobel Prize in Literature awarded for the first time",
+    "answer": "1901"
+  },
+  {
+    "question": "What did Tagore win the Nobel Prize in Literature for",
+    "answer": "Gitanjali"
+  },
+  {
+    "question": "Which writer had not been awarded the Nobel Prize in Literature",
+    "answer": "Lu Xun"
+  },
+  {
+    "question": "What is the other name of Shakespeare's play 'Hamlet'",
+    "answer": "The Dutch Prince"
+  },
+  {
+    "question": "Which Shakespearean play is also known as ‘’The Prince of Denmark’’",
+    "answer": "Hamlet"
+  },
+  {
+    "question": "Who wrote ‘‘A real poet suffers involuntarily as he himself burns and he burns others’’",
+    "answer": "Tolstoy"
+  },
+  {
+    "question": "Who wrote ‘’If winter comes, can spring be far behind’’",
+    "answer": "Shelley"
+  },
+  {
+    "question": "The novel ‘’Madame Bovary’’ was written by",
+    "answer": "Flaubert"
+  },
+  {
+    "question": "Who is the protagonist in Homer’s epic poem Odyssey",
+    "answer": "Odysseus"
+  },
+  { "question": "Which writer was not French", "answer": "Heine" },
+  {
+    "question": "Which city has a statue of the mermaid in “The Little Mermaid” written by Andersen",
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "Which is not one of the 3 masterpieces by Leo Tolstoy",
+    "answer": "Les Miserables"
+  },
+  {
+    "question": "Where was Anderson, who is dubbed as the ‘’King of Fairy Tales’’, from",
+    "answer": "Denmark"
+  },
+  {
+    "question": "Which was not one of the 3 greatest poets in the 19th century's Britain",
+    "answer": "Defoe"
+  },
+  {
+    "question": "In the history of philosophy, who said “Man is the measure of all things”",
+    "answer": "Protagoras"
+  },
+  {
+    "question": "Who composed the waltz ‘The Blue Danube’",
+    "answer": "Johann Strauss"
+  },
+  {
+    "question": "Which composer was dubbed as ‘’The Waltz King’’",
+    "answer": "Johann Strauss"
+  },
+  { "question": "Which was composed by Tchaikovsky", "answer": "Pathétique" },
+  {
+    "question": "Who adapted ‘’Camille’’ written by Dumas into an opera",
+    "answer": "Verdi"
+  },
+  {
+    "question": "What period were Mozart and Haydn iconic composers of",
+    "answer": "Classical"
+  },
+  {
+    "question": "Which musical instrument is nicknamed ‘’axe’’",
+    "answer": "Guitar"
+  },
+  {
+    "question": "Which is the longest organ in the human digestive tract",
+    "answer": "Small intestine"
+  },
+  { "question": "The largest cell in the human body is", "answer": "Egg cell" },
+  { "question": "How many bones are in the adult human body", "answer": "206" },
+  {
+    "question": "Which is the main cause of tides",
+    "answer": "Moon’s gravity"
+  },
+  { "question": "Which planet has the most moons", "answer": "Jupiter" },
+  {
+    "question": "What is the temperature of the ice-water mixture",
+    "answer": "0C"
+  },
+  {
+    "question": "For easier observation of celestial bodies through a telescope, the roofs of observatories are designed to be",
+    "answer": "A dome"
+  },
+  {
+    "question": "What are the wings of the airplane used for",
+    "answer": "This adds to the lift"
+  },
+  {
+    "question": "Which molecule protects the lives on Earth by absorbing ultraviolet radiation",
+    "answer": "Ozone"
+  },
+  {
+    "question": "In the troposphere, how much does the temperature drop for each 100m rise in elevation",
+    "answer": "0.6°C/ 33.08°F"
+  },
+  {
+    "question": "What year did the United States land on the moon",
+    "answer": "1966"
+  },
+  {
+    "question": "The sculptures of US presidents on Mount Rushmore do not include",
+    "answer": "Franklin Roosevelt"
+  },
+  {
+    "question": "The world’s first postage stamp was made in",
+    "answer": "Britain"
+  },
+  {
+    "question": "The famous Hundred Years’ War in Europe was a conflict between",
+    "answer": "England and France"
+  },
+  {
+    "question": "Middens are historical remains of",
+    "answer": "Domestic waste"
+  },
+  {
+    "question": "Which is not one of the Four Great Inventions of China",
+    "answer": "Seismograph"
+  },
+  {
+    "question": "Through what do dandelions spread their seeds",
+    "answer": "Wind"
+  },
+  {
+    "question": "Which type of living things has the largest population in the ocean",
+    "answer": "Plankton"
+  },
+  {
+    "question": "Cuckoos don’t make nests but lay eggs in",
+    "answer": "Other birds nests"
+  },
+  {
+    "question": "Which bird flew the longest distance on record",
+    "answer": "Arctic tern"
+  },
+  { "question": "Dinosaurs were a type of", "answer": "Reptiles" },
+  { "question": "What colors can dogs see", "answer": "Black, white, gray" },
+  {
+    "question": "'Nibelungen' In Norse mythology means",
+    "answer": "Realm of the death"
+  },
+  {
+    "question": "In Norse mythology, Heimdallr was hailed as",
+    "answer": "Guardian of Gods"
+  },
+  {
+    "question": "Which is the favourite food of Fenrir, the Lord of Earth and Mountain",
+    "answer": "Chips"
+  },
+  {
+    "question": "In Norse mythology, the Hall of the Slain was called",
+    "answer": "Valhalla"
+  },
+  {
+    "question": "The god of all gods in norse mythology was",
+    "answer": "Odin"
+  },
+  {
+    "question": "Who is Sphinx in the Riddle of Sphinx",
+    "answer": "A female monster"
+  },
+  {
+    "question": "In Greek mythology, she is called a banshee who turns into a stone when she looks at",
+    "answer": "Medusa"
+  },
+  {
+    "question": "What is the goddess of wisdom in Greek mythology",
+    "answer": "Athena"
+  },
+  {
+    "question": "In Norse mythology, what price did Odin pay for drinking from the fountain of wisdom",
+    "answer": "An eye"
+  },
+  { "question": "Who is the prototype of poker Q", "answer": "Athena" },
+  {
+    "question": "The Pulitzer Prize is an award related to",
+    "answer": "Journalism, culture"
+  },
+  {
+    "question": "Which type of aircrafts does the US military code ‘F’ refer to",
+    "answer": "Fighters"
+  },
+  {
+    "question": "Ice skating was first intended to be",
+    "answer": "Transportation"
+  },
+  { "question": "Which is fermented tea", "answer": "Black tea" },
+  { "question": "Which drink can increase Warmth", "answer": "Oolong tea" },
+  { "question": "Scurvy is the result from a lack of", "answer": "Vitamin C" },
+  {
+    "question": "What kind of sports’ highest honour is the Trophy",
+    "answer": "Soccer"
+  },
+  {
+    "question": "In China, the month of Chrysanthemum refers to",
+    "answer": "September"
+  },
+  {
+    "question": "Which language did the word “salon” come from",
+    "answer": "French"
+  },
+  {
+    "question": "Vampires originated from an animal, which is",
+    "answer": "A bat"
+  },
+  { "question": "Deer velvet is made from immature", "answer": "Deer antlers" },
+  {
+    "question": "Which art style was the famous painter Picasso known for",
+    "answer": "Cubism"
+  }
+]

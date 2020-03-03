@@ -1,11 +1,22 @@
 {
   "message": {
+    "question": "คำถาม",
     "menu": "เมนู",
     "Remaining": "ยังไม่เสร็จ",
     "Completed": "เสร็จ",
     "menus": [
       { "heading": "ไกด์ทั่วไป" },
       { "icon": "mdi-lightbulb-outline", "text": "1 วันต้องทำอะไรบ้าง" },
+      {
+        "icon": "mdi-file",
+        "text": "Salon of Wisdom / The brain",
+        "link": "salon"
+      },
+      {
+        "icon": "mdi-file",
+        "text": "King of Gossip / Gossip Society",
+        "link": "gossip"
+      },
       { "divider": true },
       { "heading": "ไกด์อาชีพ" },
       { "icon": "mdi-sword", "text": "Blade Master" },
@@ -61,12 +72,6 @@
       },
       {
         "text": "เวลาที่อยู่ในไกด์คือเวลา server ไม่ใช่เวลาของเกม "
-      },
-      {
-        "text": "เฉลย Salon of Wisdom / The brain https://docs.google.com/document/d/1VpMbc9E3y1K2_Gy2WWfRsKvDzFN39Djoc9NYOux9lL8/edit "
-      },
-      {
-        "text": "เฉลย Gossip Society/ King of Gossip https://docs.google.com/document/d/1B_4W6kiWGeHld2mhEObTDbh5R2Hpu9EjEy7kZwI6wBU/edit "
       }
     ]
   }

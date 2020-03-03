@@ -1,11 +1,26 @@
 {
   "message": {
+    "question": "Question",
     "menu": "menu",
     "Remaining": "Remaining",
     "Completed": "Completed",
     "menus": [
       { "heading": "General Guide" },
-      { "icon": "mdi-lightbulb-outline", "text": "What to do in each day" },
+      {
+        "icon": "mdi-lightbulb-outline",
+        "text": "What to do in each day",
+        "link": "/"
+      },
+      {
+        "icon": "mdi-clipboard-list-outline",
+        "text": "Salon of Wisdom / The brain",
+        "link": "salon"
+      },
+      {
+        "icon": "mdi-clipboard-list-outline",
+        "text": "King of Gossip / Gossip Society",
+        "link": "gossip"
+      },
       { "divider": true },
       { "heading": "Class Guide" },
       { "icon": "mdi-sword", "text": "Blade Master" },
@@ -23,12 +38,6 @@
       },
       {
         "text": "Time mention in guide is server time not game time"
-      },
-      {
-        "text": "cheat sheet Salon of Wisdom / The brain https://docs.google.com/document/d/1VpMbc9E3y1K2_Gy2WWfRsKvDzFN39Djoc9NYOux9lL8/edit "
-      },
-      {
-        "text": "cheat sheet  Gossip Society/ King of Gossip https://docs.google.com/document/d/1B_4W6kiWGeHld2mhEObTDbh5R2Hpu9EjEy7kZwI6wBU/edit "
       }
     ],
     "dailies": [

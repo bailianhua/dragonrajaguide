@@ -8,9 +8,7 @@
           dense
         >
           <v-list-item-content>
-            <v-list-item-title
-              >{{ index + 1 }} {{ tip.text }}</v-list-item-title
-            >
+            <v-list-item-title>- {{ tip.text }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
