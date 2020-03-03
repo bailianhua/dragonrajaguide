@@ -41,7 +41,7 @@
       },
       {
         "station": "Stove",
-        "action": "steam",
+        "action": "Steam",
         "seasoning": [{ "ingredient": "soy sauce", "amount": "1" }],
         "ingredients": [
           { "ingredient": "seaweed", "amount": "1" },
