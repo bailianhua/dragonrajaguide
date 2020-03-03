@@ -8,6 +8,12 @@
         </v-btn>
       </v-toolbar-items>
       <v-spacer></v-spacer>
+      <v-toolbar-title>Dragon Raja Guide</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn outlined color="white" href="https://discord.gg/k5EMb5J">
+        <v-icon>mdi-discord</v-icon>
+        <v-text>Join our community</v-text>
+      </v-btn>
       <v-btn color="white" class="mx-2">
         <v-img
           @click="englishLanguage()"
