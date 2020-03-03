@@ -25,9 +25,9 @@
           <v-col v-for="meat in item.meat" :key="meat.ingredient">
             <v-list-item two-line dense>
               <v-list-item-content>
-                <v-list-item-title class="orange--text">{{
-                  meat.ingredient
-                }}</v-list-item-title>
+                <v-list-item-title class="orange--text">
+                  {{ meat.ingredient }}
+                </v-list-item-title>
                 <v-list-item-subtitle>{{ meat.amount }}</v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
@@ -39,9 +39,9 @@
           <v-col v-for="cereal in item.cereal" :key="cereal.ingredient">
             <v-list-item two-line dense>
               <v-list-item-content>
-                <v-list-item-title class="orange--text">{{
-                  cereal.ingredient
-                }}</v-list-item-title>
+                <v-list-item-title class="purple--text">
+                  {{ cereal.ingredient }}
+                </v-list-item-title>
                 <v-list-item-subtitle>{{ cereal.amount }}</v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
@@ -56,12 +56,12 @@
           >
             <v-list-item two-line dense>
               <v-list-item-content>
-                <v-list-item-title class="green--text">{{
-                  vegetable.ingredient
-                }}</v-list-item-title>
-                <v-list-item-subtitle>{{
-                  vegetable.amount
-                }}</v-list-item-subtitle>
+                <v-list-item-title class="green--text">
+                  {{ vegetable.ingredient }}
+                </v-list-item-title>
+                <v-list-item-subtitle>
+                  {{ vegetable.amount }}
+                </v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
           </v-col>
@@ -72,12 +72,31 @@
           <v-col v-for="seafood in item.seafood" :key="seafood.ingredient">
             <v-list-item two-line dense>
               <v-list-item-content>
-                <v-list-item-title class="blue--text">{{
-                  seafood.ingredient
-                }}</v-list-item-title>
-                <v-list-item-subtitle>{{
-                  seafood.amount
-                }}</v-list-item-subtitle>
+                <v-list-item-title class="blue--text">
+                  {{ seafood.ingredient }}
+                </v-list-item-title>
+                <v-list-item-subtitle>
+                  {{ seafood.amount }}
+                </v-list-item-subtitle>
+              </v-list-item-content>
+            </v-list-item>
+          </v-col>
+        </v-row>
+      </template>
+      <template v-slot:item.other_ingredient="{ item }">
+        <v-row no-gutters>
+          <v-col
+            v-for="ingredient in item.other_ingredient"
+            :key="ingredient.ingredient"
+          >
+            <v-list-item two-line dense>
+              <v-list-item-content>
+                <v-list-item-title class="indigo--text">
+                  {{ ingredient.ingredient }}
+                </v-list-item-title>
+                <v-list-item-subtitle>
+                  {{ ingredient.amount }}
+                </v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
           </v-col>
@@ -91,21 +110,21 @@
           >
             <v-list-item two-line dense>
               <v-list-item-content>
-                <v-list-item-title class="red--text">{{
-                  seasoning.ingredient
-                }}</v-list-item-title>
-                <v-list-item-subtitle>{{
-                  seasoning.amount
-                }}</v-list-item-subtitle>
+                <v-list-item-title class="red--text">
+                  {{ seasoning.ingredient }}
+                </v-list-item-title>
+                <v-list-item-subtitle>
+                  {{ seasoning.amount }}
+                </v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
           </v-col>
         </v-row>
       </template>
       <template v-slot:item.data-table-expand="{ expand, isExpanded }">
-        <v-btn color="info" outlined @click="expand(!isExpanded)">{{
-          $t("message.instruction")
-        }}</v-btn>
+        <v-btn color="info" outlined @click="expand(!isExpanded)">
+          {{ $t("message.instruction") }}
+        </v-btn>
       </template>
       <template v-slot:expanded-item="{ item }">
         <td :colspan="headers.length">
@@ -117,13 +136,13 @@
                   :key="index"
                 >
                   <v-card height="150" class="mx-auto">
-                    <v-system-bar color="pink darken-2" dark> </v-system-bar>
+                    <v-system-bar color="pink darken-2" dark></v-system-bar>
                     <v-list-item three-line dense>
                       <v-list-item-avatar>{{ index + 1 }}</v-list-item-avatar>
                       <v-list-item-content>
-                        <v-list-item-title>
-                          {{ instruction.action }}
-                        </v-list-item-title>
+                        <v-list-item-title>{{
+                          instruction.action
+                        }}</v-list-item-title>
                         <v-list-item-subtitle
                           >@ {{ instruction.station }}</v-list-item-subtitle
                         >
@@ -192,6 +211,12 @@ export default {
           align: "start",
           sortable: false,
           value: "seafood"
+        },
+        {
+          text: "Other ingredient",
+          align: "start",
+          sortable: false,
+          value: "other_ingredient"
         },
         {
           text: "Seasoning",

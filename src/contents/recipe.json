@@ -17,13 +17,7 @@
       {
         "station": "Cutting Board",
         "action": "Chop",
-        "seasoning": [],
-        "ingredients": [
-          { "ingredient": "seaweed", "amount": "1" },
-          { "ingredient": "wild fish", "amount": "1" },
-          { "ingredient": "mushroom", "amount": "1" },
-          { "ingredient": "egg", "amount": "1" }
-        ]
+        "seasoning": []
       },
       {
         "station": "Right of oven",
@@ -31,24 +25,12 @@
         "seasoning": [
           { "ingredient": "table salt", "amount": "1" },
           { "ingredient": "seasoning", "amount": "1" }
-        ],
-        "ingredients": [
-          { "ingredient": "seaweed", "amount": "1" },
-          { "ingredient": "wild fish", "amount": "1" },
-          { "ingredient": "mushroom", "amount": "1" },
-          { "ingredient": "egg", "amount": "1" }
         ]
       },
       {
-        "station": "Stove",
+        "station": "Stove at middle of kitchen",
         "action": "Steam",
-        "seasoning": [{ "ingredient": "soy sauce", "amount": "1" }],
-        "ingredients": [
-          { "ingredient": "seaweed", "amount": "1" },
-          { "ingredient": "wild fish", "amount": "1" },
-          { "ingredient": "mushroom", "amount": "1" },
-          { "ingredient": "egg", "amount": "1" }
-        ]
+        "seasoning": [{ "ingredient": "soy sauce", "amount": "1" }]
       }
     ]
   },
@@ -70,12 +52,7 @@
       {
         "station": "Cutting Board",
         "action": "Chop",
-        "seasoning": [],
-        "ingredients": [
-          { "ingredient": "mushroom", "amount": "2" },
-          { "ingredient": "carrot", "amount": "1" },
-          { "ingredient": "tomatoes", "amount": "2" }
-        ]
+        "seasoning": []
       },
       {
         "station": "Stove",
@@ -83,18 +60,13 @@
         "seasoning": [
           { "ingredient": "table salt", "amount": "2" },
           { "ingredient": "chicken essence", "amount": "1" }
-        ],
-        "ingredients": [
-          { "ingredient": "mushroom", "amount": "2" },
-          { "ingredient": "carrot", "amount": "1" },
-          { "ingredient": "tomatoes", "amount": "2" }
         ]
       }
     ]
   },
   {
     "recipe": "French Burger",
-    "cereal": [{ "ingredient": "Cereal", "amount": "2" }],
+    "cereal": [{ "ingredient": "flours", "amount": "2" }],
     "meat": [
       { "ingredient": "beef", "amount": "2" },
       { "ingredient": "egg", "amount": "1" }
@@ -113,21 +85,992 @@
         "seasoning": [
           { "ingredient": "table salt", "amount": "1" },
           { "ingredient": "pepper powder", "amount": "1" }
-        ],
-        "ingredients": [
-          { "ingredient": "vegetable", "amount": "1" },
-          { "ingredient": "beef", "amount": "2" },
-          { "ingredient": "egg", "amount": "1" }
         ]
       },
       {
         "station": "Oven",
         "action": "Bake",
-        "seasoning": [{ "ingredient": "tomato sauce", "amount": "2" }],
-        "ingredients": [
-          { "ingredient": "vegetable", "amount": "1" },
-          { "ingredient": "beef", "amount": "2" },
-          { "ingredient": "egg", "amount": "1" }
+        "seasoning": [{ "ingredient": "tomato sauce", "amount": "2" }]
+      }
+    ]
+  },
+  {
+    "recipe": "Spring Rolls",
+    "cereal": [
+      {
+        "ingredient": "flours",
+        "amount": "2"
+      }
+    ],
+    "meat": [
+      {
+        "ingredient": "egg",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [
+      {
+        "ingredient": "vegetable",
+        "amount": "1"
+      },
+      {
+        "ingredient": "mushroom",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "2"
+      },
+      {
+        "ingredient": "chicken essence",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "chicken essence",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Fry",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Veggie Pizza",
+    "meat": [
+      {
+        "ingredient": "egg",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [
+      {
+        "ingredient": "carrot",
+        "amount": "1"
+      },
+      {
+        "ingredient": "mushroom",
+        "amount": "1"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "flours",
+        "amount": "2"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "cheese",
+        "amount": "1"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "2"
+      },
+      {
+        "ingredient": "tomato sauce",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Oven",
+        "action": "Bake",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "tomato sauce",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Pineapple Charpati",
+    "meat": [
+      {
+        "ingredient": "egg",
+        "amount": "1"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "flours",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [
+      {
+        "ingredient": "pineapple",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "coconut milk",
+        "amount": "1"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "2"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Fry",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Conch in Coconut Milk",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [],
+    "seafood": [
+      {
+        "ingredient": "conch",
+        "amount": "1"
+      }
+    ],
+    "other_ingredient": [
+      {
+        "ingredient": "coconut milk",
+        "amount": "2"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "table sugar",
+        "amount": "1"
+      },
+      {
+        "ingredient": "pepper powder",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove at middle of kitchen",
+        "action": "Steam",
+        "seasoning": [
+          {
+            "ingredient": "table sugar",
+            "amount": "1"
+          },
+          {
+            "ingredient": "pepper powder",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Crab Shumai",
+    "meat": [
+      {
+        "ingredient": "pork",
+        "amount": "2"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "flour",
+        "amount": "1"
+      },
+      {
+        "ingredient": "rice",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [],
+    "seafood": [
+      {
+        "ingredient": "crab",
+        "amount": "1"
+      }
+    ],
+    "other_ingredient": [],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "table sugar",
+        "amount": "1"
+      },
+      {
+        "ingredient": "soy sauce",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "table sugar",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove at middle of kitchen",
+        "action": "Steam",
+        "seasoning": [
+          {
+            "ingredient": "soy sauce",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Teriyaki Chicken",
+    "meat": [
+      {
+        "ingredient": "chicken",
+        "amount": "2"
+      }
+    ],
+    "cereal": [],
+    "vegetable": [
+      {
+        "ingredient": "onion",
+        "amount": "1"
+      },
+      {
+        "ingredient": "honey",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "seasoning",
+        "amount": "1"
+      },
+      {
+        "ingredient": "barbeque sauce",
+        "amount": "2"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "seasoning",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Oven",
+        "action": "Bake",
+        "seasoning": [
+          {
+            "ingredient": "barbeque sauce",
+            "amount": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Beef Thick Soup",
+    "meat": [
+      {
+        "ingredient": "beef",
+        "amount": "1"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "flour",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [
+      {
+        "ingredient": "mushroom",
+        "amount": "1"
+      },
+      {
+        "ingredient": "tofu",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "stick rice wine",
+        "amount": "1"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "pepper powder",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Stove at middle of kitchen",
+        "action": "Steam",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "pepper powder",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Shrimp Dumpling",
+    "meat": [
+      {
+        "ingredient": "pork",
+        "amount": "1"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "flour",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [],
+    "seafood": [
+      {
+        "ingredient": "shrimp",
+        "amount": "3"
+      }
+    ],
+    "other_ingredient": [],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "table sugar",
+        "amount": "1"
+      },
+      {
+        "ingredient": "aged vinegar",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "table sugar",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Fry",
+        "seasoning": [
+          {
+            "ingredient": "aged vinegar",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Eel and Egg Rice",
+    "meat": [
+      {
+        "ingredient": "egg",
+        "amount": "1"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "rice",
+        "amount": "2"
+      }
+    ],
+    "vegetable": [],
+    "seafood": [
+      {
+        "ingredient": "eels",
+        "amount": "2"
+      }
+    ],
+    "other_ingredient": [
+      {
+        "ingredient": "stick rice wine",
+        "amount": "1"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "table sugar",
+        "amount": "1"
+      },
+      {
+        "ingredient": "soy sauce",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Fry",
+        "seasoning": [
+          {
+            "ingredient": "soy sauce",
+            "amount": "1"
+          },
+          {
+            "ingredient": "table sugar ",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Longjing Prawns",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [],
+    "seafood": [
+      {
+        "ingredient": "shrimp",
+        "amount": "3"
+      }
+    ],
+    "other_ingredient": [
+      {
+        "ingredient": "tea leaves",
+        "amount": "2"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "1"
+      },
+      {
+        "ingredient": "seasoning",
+        "amount": "1"
+      },
+      {
+        "ingredient": "chicken essence",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "seasoning",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Fry",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "chicken essence",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Seafood Tempura",
+    "meat": [
+      {
+        "ingredient": "egg",
+        "amount": "1"
+      }
+    ],
+    "cereal": [
+      {
+        "ingredient": "flour",
+        "amount": "1"
+      }
+    ],
+    "vegetable": [],
+    "seafood": [
+      {
+        "ingredient": "shrimp",
+        "amount": "1"
+      },
+      {
+        "ingredient": "wild fish",
+        "amount": "1"
+      },
+      {
+        "ingredient": "squid",
+        "amount": "1"
+      }
+    ],
+    "other_ingredient": [],
+    "seasoning": [
+      {
+        "ingredient": "table salt",
+        "amount": "2"
+      },
+      {
+        "ingredient": "chicken essence",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": []
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Fry",
+        "seasoning": [
+          {
+            "ingredient": "table salt",
+            "amount": "1"
+          },
+          {
+            "ingredient": "chicken essence",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Pink Lady",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "milk",
+        "amount": "1"
+      },
+      {
+        "ingredient": "basic drinks",
+        "amount": "3"
+      },
+      {
+        "ingredient": "guava juice",
+        "amount": "1"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "ice cubes",
+        "amount": "3"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Drinking Bar",
+        "action": "Mix",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Drinking Bar",
+        "action": "Blend",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Chunk Juice",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [
+      {
+        "ingredient": "pineapple",
+        "amount": "1"
+      },
+      {
+        "ingredient": "orange",
+        "amount": "1"
+      },
+      {
+        "ingredient": "banana",
+        "amount": "1"
+      },
+      {
+        "ingredient": "lemon",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "grape juice",
+        "amount": "2"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "ice cubes",
+        "amount": "2"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Drinking Bar",
+        "action": "Mix",
+        "seasoning": []
+      },
+      {
+        "station": "Drinking Bar",
+        "action": "Blend",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Shiori Koibito",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [
+      {
+        "ingredient": "pineapple",
+        "amount": "1"
+      },
+      {
+        "ingredient": "orange",
+        "amount": "1"
+      },
+      {
+        "ingredient": "banana",
+        "amount": "1"
+      },
+      {
+        "ingredient": "lemon",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "basic drinks",
+        "amount": "3"
+      },
+      {
+        "ingredient": "creams",
+        "amount": "2"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "ice cubes",
+        "amount": "1"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Drinking Bar",
+        "action": "Mix",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Drinking Bar",
+        "action": "Blend",
+        "seasoning": []
+      }
+    ]
+  },
+  {
+    "recipe": "Sangria",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [
+      {
+        "ingredient": "orange",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "basic drinks",
+        "amount": "2"
+      },
+      {
+        "ingredient": "grape juice",
+        "amount": "1"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "ice cubes",
+        "amount": "3"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Drinking Bar",
+        "action": "Mix",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "2"
+          }
+        ]
+      },
+      {
+        "station": "Drinking Bar",
+        "action": "Blend",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Coconut Milk Mojito",
+    "meat": [],
+    "cereal": [],
+    "vegetable": [
+      {
+        "ingredient": "honey",
+        "amount": "1"
+      }
+    ],
+    "seafood": [],
+    "other_ingredient": [
+      {
+        "ingredient": "basic drinks",
+        "amount": "2"
+      },
+      {
+        "ingredient": "coconut milk",
+        "amount": "2"
+      }
+    ],
+    "seasoning": [
+      {
+        "ingredient": "ice cubes",
+        "amount": "2"
+      }
+    ],
+    "instruction": [
+      {
+        "station": "Drinking Bar",
+        "action": "Mix",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "station": "Drinking Bar",
+        "action": "Blend",
+        "seasoning": [
+          {
+            "ingredient": "ice cubes",
+            "amount": "1"
+          }
         ]
       }
     ]
