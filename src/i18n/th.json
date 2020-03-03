@@ -1,5 +1,6 @@
 {
   "message": {
+    "instruction": "วิธีทำ",
     "question": "คำถาม",
     "menu": "เมนู",
     "Remaining": "ยังไม่เสร็จ",
@@ -16,6 +17,11 @@
         "icon": "mdi-file",
         "text": "King of Gossip / Gossip Society",
         "link": "gossip"
+      },
+      {
+        "icon": "mdi-chef-hat",
+        "text": "Cooking Recipe",
+        "link": "recipe"
       },
       { "divider": true },
       { "heading": "ไกด์อาชีพ" },

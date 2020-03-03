@@ -1,0 +1,135 @@
+[
+  {
+    "recipe": "Chawanmushi",
+    "meat": [{ "ingredient": "egg", "amount": "1" }],
+    "cereal": [],
+    "vegetable": [{ "ingredient": "mushroom", "amount": "1" }],
+    "seafood": [
+      { "ingredient": "seaweed", "amount": "1" },
+      { "ingredient": "wild fish", "amount": "1" }
+    ],
+    "seasoning": [
+      { "ingredient": "table salt", "amount": "1" },
+      { "ingredient": "seasoning", "amount": "1" },
+      { "ingredient": "soy sauce", "amount": "1" }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": [],
+        "ingredients": [
+          { "ingredient": "seaweed", "amount": "1" },
+          { "ingredient": "wild fish", "amount": "1" },
+          { "ingredient": "mushroom", "amount": "1" },
+          { "ingredient": "egg", "amount": "1" }
+        ]
+      },
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          { "ingredient": "table salt", "amount": "1" },
+          { "ingredient": "seasoning", "amount": "1" }
+        ],
+        "ingredients": [
+          { "ingredient": "seaweed", "amount": "1" },
+          { "ingredient": "wild fish", "amount": "1" },
+          { "ingredient": "mushroom", "amount": "1" },
+          { "ingredient": "egg", "amount": "1" }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "steam",
+        "seasoning": [{ "ingredient": "soy sauce", "amount": "1" }],
+        "ingredients": [
+          { "ingredient": "seaweed", "amount": "1" },
+          { "ingredient": "wild fish", "amount": "1" },
+          { "ingredient": "mushroom", "amount": "1" },
+          { "ingredient": "egg", "amount": "1" }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "Tomato and Mushroom Soup",
+    "cereal": [],
+    "meat": [],
+    "vegetable": [
+      { "ingredient": "mushroom", "amount": "2" },
+      { "ingredient": "carrot", "amount": "1" },
+      { "ingredient": "tomatoes", "amount": "2" }
+    ],
+    "seafood": [],
+    "seasoning": [
+      { "ingredient": "table salt", "amount": "2" },
+      { "ingredient": "chicken essence", "amount": "1" }
+    ],
+    "instruction": [
+      {
+        "station": "Cutting Board",
+        "action": "Chop",
+        "seasoning": [],
+        "ingredients": [
+          { "ingredient": "mushroom", "amount": "2" },
+          { "ingredient": "carrot", "amount": "1" },
+          { "ingredient": "tomatoes", "amount": "2" }
+        ]
+      },
+      {
+        "station": "Stove",
+        "action": "Steam",
+        "seasoning": [
+          { "ingredient": "table salt", "amount": "2" },
+          { "ingredient": "chicken essence", "amount": "1" }
+        ],
+        "ingredients": [
+          { "ingredient": "mushroom", "amount": "2" },
+          { "ingredient": "carrot", "amount": "1" },
+          { "ingredient": "tomatoes", "amount": "2" }
+        ]
+      }
+    ]
+  },
+  {
+    "recipe": "French Burger",
+    "cereal": [{ "ingredient": "Cereal", "amount": "2" }],
+    "meat": [
+      { "ingredient": "beef", "amount": "2" },
+      { "ingredient": "egg", "amount": "1" }
+    ],
+    "vegetable": [{ "ingredient": "vegetable", "amount": "1" }],
+    "seafood": [],
+    "seasoning": [
+      { "ingredient": "table salt", "amount": "1" },
+      { "ingredient": "pepper powder", "amount": "1" },
+      { "ingredient": "tomato sauce", "amount": "2" }
+    ],
+    "instruction": [
+      {
+        "station": "Right of oven",
+        "action": "Stir",
+        "seasoning": [
+          { "ingredient": "table salt", "amount": "1" },
+          { "ingredient": "pepper powder", "amount": "1" }
+        ],
+        "ingredients": [
+          { "ingredient": "vegetable", "amount": "1" },
+          { "ingredient": "beef", "amount": "2" },
+          { "ingredient": "egg", "amount": "1" }
+        ]
+      },
+      {
+        "station": "Oven",
+        "action": "Bake",
+        "seasoning": [{ "ingredient": "tomato sauce", "amount": "2" }],
+        "ingredients": [
+          { "ingredient": "vegetable", "amount": "1" },
+          { "ingredient": "beef", "amount": "2" },
+          { "ingredient": "egg", "amount": "1" }
+        ]
+      }
+    ]
+  }
+]

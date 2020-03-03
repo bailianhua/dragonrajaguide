@@ -1,5 +1,6 @@
 {
   "message": {
+    "instruction": "instrcution",
     "question": "Question",
     "menu": "menu",
     "Remaining": "Remaining",
@@ -20,6 +21,11 @@
         "icon": "mdi-clipboard-list-outline",
         "text": "King of Gossip / Gossip Society",
         "link": "gossip"
+      },
+      {
+        "icon": "mdi-chef-hat",
+        "text": "Cooking Recipe",
+        "link": "recipe"
       },
       { "divider": true },
       { "heading": "Class Guide" },
