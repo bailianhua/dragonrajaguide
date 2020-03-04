@@ -8,10 +8,21 @@
     "menus": [
       { "heading": "General Guide" },
       {
+        "icon": "mdi-baby-face-outline",
+        "text": "Beginner Starter Guide",
+        "link": "/beginnerguide"
+      },
+      {
         "icon": "mdi-lightbulb-outline",
         "text": "What to do in each day",
         "link": "/"
       },
+      {
+        "icon": "mdi-diamond-outline",
+        "text": "Diamond usage",
+        "link": "/diamond"
+      },
+      { "heading": "Information" },
       {
         "icon": "mdi-clipboard-list-outline",
         "text": "Salon of Wisdom / The brain",
@@ -82,6 +93,66 @@
       {
         "done": false,
         "text": " 21.00 Club activities varies in each day"
+      }
+    ],
+    "beginner": [
+      {
+        "title": "Starting",
+        "subtitle": "I'm just download the game what should I do ?",
+        "icon": "mdi-account-question",
+        "color": "green",
+        "hasLink": false,
+        "content": "Do your main quest as far as you can. In day 1 you should be at around level 35 and then can't continue the main quest anymore. You don't need to worry about any other things now since your level up so fast. Take it as your tutorial phase."
+      },
+      {
+        "title": "Daily quest",
+        "subtitle": "I'm struck and my level is too low to progress the quest.",
+        "icon": "mdi-clipboard-list",
+        "color": "blue",
+        "content": "Do your daily !! you can check what daily you should do at the button below. Remember that reward from daily will depends on your level so you should capped your exp from main quest before running daily to maximize reward.",
+        "hasLink": true,
+        "link": "/",
+        "buttonText": "Which daily activity to do ?"
+      },
+      {
+        "title": "Find A Club",
+        "subtitle": "Shoud I ?",
+        "icon": "mdi-account-group",
+        "color": "orange",
+        "content": "A club(or guild) will give you more activity to do. If you don't have a club you're unlikely be able to maxed your activity points each day. So yes find a club.",
+        "hasLink": false
+      },
+      {
+        "title": "Diamond !!",
+        "subtitle": "I have some from quest. What should I use it for ?",
+        "icon": "mdi-diamond",
+        "color": "purple",
+        "content": "There's a lot of things to buy. Don't spend it all in partner gacha !! you can use it for first 10x pull but if you want to stay F2P you got another things to buy so you can progress smoothly.",
+        "hasLink": true,
+        "link": "/diamond",
+        "buttonText": "What should I spent my diamond on?"
+      }
+    ],
+    "diamond": [
+      {
+        "title": "CORE",
+        "content": "Your first spending (after gacha if you prefer) should be to improve your core. For a simple reason you need all core at level 3 to get talent B early. You use diamond to buy lv.5 core directly from market that'd cost around 16*50 = 800 (approximate). You can upgrade them early or spend on other thing first, if you choose to upgrade push all core to LV.7 and then stop."
+      },
+      {
+        "title": "VEHICLE",
+        "content": "Vehicle is another good spend. You can beginner upgrade your vehicle after you get your core to LV.7 Some of vehicle need you to buy material like blueprint, etc. to create my advice is focus on create new vehicle first if it's not too expensive. And when you beginning to upgrade you vehicle it's better to spread the upgrade across all vehicle you own instead of just push one vehicle to high level."
+      },
+      {
+        "title": "PARTNER",
+        "content": "OK. Settle down your gacha itch. Every month they will have a promotion discount 30% of first 10x pull. If you have enough or want to try get that 6* partner at least save to pull in the promotion. It's very expensive to pull partner so you should focus your diamond to first two things and then decide if you want to pull. For upgrade if you want to use diamond just upgrade your best partner and second best."
+      },
+      {
+        "title": "CLUB DONATE",
+        "content": "Wait. Hear me out don't stop reading yet. Donating is actually quite worth the diamond, because you'll get contribution and can use it to buy some exclusive fashion and chat decoration. Plus you helping your club in the same time win-win right :D"
+      },
+      {
+        "title": "OTHER THINGS",
+        "content": "You can stop here if you're F2P or low spend player. Things like fashion,pet,partner are really expensive. And you better save your diamond for upgrade what improve your rating the most instead. But if you got cash to spend, why not ? First try to get 6* partner they'll help you quite a lot in battle. Then upgrade all of your combat partner since they'll give you stat. Fashion price/performance ration is quite low but hey it 'DOSE' look cool. For pet don't spend much in first 2 pets you get since you'll change it later just upgrade them enough to pass the quest."
       }
     ]
   }

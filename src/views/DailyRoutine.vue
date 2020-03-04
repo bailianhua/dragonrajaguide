@@ -1,5 +1,10 @@
 <template>
   <div class="daily-routine">
+    <v-toolbar color="grey lighten-2">
+      <v-spacer></v-spacer>
+      <v-toolbar-title>Daily Activity</v-toolbar-title>
+      <v-spacer></v-spacer>
+    </v-toolbar>
     <v-card>
       <v-list>
         <v-list-item
