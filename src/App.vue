@@ -7,13 +7,19 @@
           {{ $t("message.menu") }}
         </v-btn>
       </v-toolbar-items>
-      <v-toolbar-title>Dragon Raja Guide</v-toolbar-title>
+      <v-toolbar-title>
+        <v-btn
+          outlined
+          color="white"
+          href="https://discord.gg/k5EMb5J"
+          class="mr-2"
+        >
+          <v-icon class="mr-1">mdi-discord</v-icon>
+          discord </v-btn
+        >Dragon Raja Guide</v-toolbar-title
+      >
       <v-spacer></v-spacer>
-      <v-btn outlined color="white" href="https://discord.gg/k5EMb5J">
-        <v-icon class="mr-1">mdi-discord</v-icon>
-        Join our community
-      </v-btn>
-      <v-btn color="white" class="mx-2">
+      <v-btn color="white" class="mr-2" small>
         <v-img
           @click="englishLanguage()"
           src="https://image.flaticon.com/icons/svg/555/555417.svg"
@@ -22,7 +28,7 @@
           contain
         ></v-img>
       </v-btn>
-      <v-btn color="white">
+      <v-btn color="white" small>
         <v-img
           @click="thaiLanguage()"
           src="https://image.flaticon.com/icons/svg/555/555495.svg"
