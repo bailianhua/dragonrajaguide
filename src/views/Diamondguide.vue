@@ -5,9 +5,7 @@
       <v-toolbar-title>Diamond Guide</v-toolbar-title>
       <v-spacer></v-spacer>
     </v-toolbar>
-    <v-container grid-list-xs>
-      <diamond :content="$t('message.diamond')"></diamond>
-    </v-container>
+    <diamond :content="$t('message.diamond')"></diamond>
   </div>
 </template>
 
@@ -18,6 +16,9 @@ export default {
   components: { Diamond },
   data() {
     return {};
+  },
+  props: {
+    content: { type: Array }
   }
 };
 </script>

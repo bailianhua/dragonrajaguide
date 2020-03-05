@@ -39,11 +39,8 @@
         "link": "recipe"
       },
       { "divider": true },
-      { "heading": "Class Guide" },
-      { "icon": "mdi-sword", "text": "Blade Master" },
-      { "icon": "mdi-pistol", "text": "Gunslinger" },
-      { "icon": "mdi-knife", "text": "Assassin" },
-      { "icon": "mdi-hospital-box-outline", "text": "Soul Dancer" },
+      { "heading": "Guide" },
+      { "icon": "mdi-sword", "text": "Class Guide", "link": "/classguide" },
       { "heading": "Dungeon Guide" }
     ],
     "tips": [
@@ -153,6 +150,67 @@
       {
         "title": "OTHER THINGS",
         "content": "You can stop here if you're F2P or low spend player. Things like fashion,pet,partner are really expensive. And you better save your diamond for upgrade what improve your rating the most instead. But if you got cash to spend, why not ? First try to get 6* partner they'll help you quite a lot in battle. Then upgrade all of your combat partner since they'll give you stat. Fashion price/performance ration is quite low but hey it 'DOSE' look cool. For pet don't spend much in first 2 pets you get since you'll change it later just upgrade them enough to pass the quest."
+      }
+    ],
+    "classguides": [
+      {
+        "title": "Blade Master",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr1.jpg",
+        "description": "tank, melee",
+        "core": [
+          { "core": "fire", "color": "red", "amount": 9 },
+          { "core": "earth", "color": "orange", "amount": 5 },
+          { "core": "water", "color": "blue", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Luminous", "pic": "" },
+          { "name": "Caesar", "pic": "" },
+          { "name": "NoNo", "pic": "" },
+          { "name": "Chime Gen", "pic": "" }
+        ]
+      },
+      {
+        "title": "Gunslinger",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr2.jpg",
+        "description": "dps,long range, sustain damage",
+        "core": [
+          { "core": "wind", "color": "green", "amount": 9 },
+          { "core": "fire", "color": "red", "amount": 5 },
+          { "core": "water", "color": "blue", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Erii Uesugi", "pic": "" },
+          { "name": "Johann Chu", "pic": "" }
+        ]
+      },
+      {
+        "title": "Soul dancer",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr3.jpg",
+        "description": "buff,debuff,heal",
+        "core": [
+          { "core": "fire", "color": "red", "amount": 9 },
+          { "core": "water", "color": "blue", "amount": 5 },
+          { "core": "earth", "color": "orange", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Luminous", "pic": "" },
+          { "name": "Anjou", "pic": "" }
+        ]
+      },
+      {
+        "title": "Assassin",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr4.jpg",
+        "description": "dps, burst damage",
+        "core": [
+          { "core": "fire", "color": "red", "amount": 9 },
+          { "core": "water", "color": "blue", "amount": 5 },
+          { "core": "wind", "color": "green", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Chisei Gen", "pic": "" },
+          { "name": "Ming Z Lu", "pic": "" },
+          { "name": "Ruri Kazama", "pic": "" }
+        ]
       }
     ]
   }

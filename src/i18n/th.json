@@ -39,11 +39,8 @@
         "link": "recipe"
       },
       { "divider": true },
-      { "heading": "ไกด์อาชีพ" },
-      { "icon": "mdi-sword", "text": "Blade Master" },
-      { "icon": "mdi-pistol", "text": "Gunslinger" },
-      { "icon": "mdi-knife", "text": "Assassin" },
-      { "icon": "mdi-hospital-box-outline", "text": "Soul Dancer" },
+      { "heading": "Guide" },
+      { "icon": "mdi-sword", "text": "ไกด์อาชีพ", "link": "/classguide" },
       { "heading": "ไกด์ดันเจี้ยน" }
     ],
     "dailies": [
@@ -153,6 +150,67 @@
       {
         "title": "อื่นๆ",
         "content": "ถ้าเป็นสายฟรี เน้นอัพพวกที่พูดมาแรกๆก่อน แต่ถ้าเติมเงินไปพอสมควรอยู่แล้ว แค่อยากรู้ว่าซื้ออะไรคุ้ม ก็เริ่มจาก partner หาให้ได้ตัว 6* มีผลกับตัวละครค่อนข้างสูง พยายามอัพ CORE ให้ได้ LV.9 แล้วอัพ partner ที่ใ้ทุกตัวขึ้นเพราะได้ stat มาให้ตัวละครเอง แฟชั่นซื้อตามกำลังทรัพย์ไม่ได้ช่วยให้ตัวละครเก่งขึ้นเท่าไหร่"
+      }
+    ],
+    "classguides": [
+      {
+        "title": "Blade Master",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr1.jpg",
+        "description": "tank, melee",
+        "core": [
+          { "core": "fire", "color": "red", "amount": 9 },
+          { "core": "earth", "color": "orange", "amount": 5 },
+          { "core": "water", "color": "blue", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Luminous", "pic": "" },
+          { "name": "Caesar", "pic": "" },
+          { "name": "NoNo", "pic": "" },
+          { "name": "Chime Gen", "pic": "" }
+        ]
+      },
+      {
+        "title": "Gunslinger",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr2.jpg",
+        "description": "dps,long range, sustain damage",
+        "core": [
+          { "core": "wind", "color": "green", "amount": 9 },
+          { "core": "fire", "color": "red", "amount": 5 },
+          { "core": "water", "color": "blue", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Erii Uesugi", "pic": "" },
+          { "name": "Johann Chu", "pic": "" }
+        ]
+      },
+      {
+        "title": "Soul dancer",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr3.jpg",
+        "description": "buff,debuff,heal",
+        "core": [
+          { "core": "fire", "color": "red", "amount": 9 },
+          { "core": "water", "color": "blue", "amount": 5 },
+          { "core": "earth", "color": "orange", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Luminous", "pic": "" },
+          { "name": "Anjou", "pic": "" }
+        ]
+      },
+      {
+        "title": "Assassin",
+        "image": "https://www.memuplay.com/blog/wp-content/uploads/2020/02/dr4.jpg",
+        "description": "dps, burst damage",
+        "core": [
+          { "core": "fire", "color": "red", "amount": 9 },
+          { "core": "water", "color": "blue", "amount": 5 },
+          { "core": "wind", "color": "green", "amount": 2 }
+        ],
+        "partner": [
+          { "name": "Chisei Gen", "pic": "" },
+          { "name": "Ming Z Lu", "pic": "" },
+          { "name": "Ruri Kazama", "pic": "" }
+        ]
       }
     ]
   }
